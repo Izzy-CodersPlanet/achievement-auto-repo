@@ -1,1 +1,1 @@
-# achievement-auto-repo
+# GitHub Achievement Bot Repo
